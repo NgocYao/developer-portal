@@ -1211,6 +1211,15 @@ export const Showcases = [
     source: null,
     tags: ["daotool", "governance"],
   },
+  {
+    title: "Whiteboard Cardano",
+    description:
+      "Whiteboard Cardano is the perfect starting point for anyone new to the Cardano blockchain or its community projects. We create 5-minute videos using a whiteboard and collage art style, enriched with analogies, examples, and stories to make understanding easier.",
+    preview: require("./showcase/tempo.png"),
+    website: "https://whiteboardcardano.tv",
+    source: null,
+    tags: ["media", "education", "event"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
